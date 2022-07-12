@@ -1,7 +1,7 @@
 ### Hi there, Anas HERE 👋
 
 - 🔭 I’m currently working on
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning 
 - 💬 Ask me about ...
 - 📫 How to reach me: You Cant!
 - 😄 Pronouns: ...
