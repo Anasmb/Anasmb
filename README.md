@@ -1,9 +1,6 @@
 ### Hi there, Anas HERE 👋
 
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning 
-- 💬 Ask me about ...
-- 📫 How to reach me: You Cant!
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on new Flutter app
+- 🌱 I’m currently learning RestFUL API's
+- 💬 Ask me about anything
 -->
