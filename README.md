@@ -1,6 +1,6 @@
 ### Hi there, Anas HERE 👋
 
-- 🔭 I’m currently working on new Flutter app
-- 🌱 I’m currently learning RestFUL API's
+- 🔭 I’m currently working on
+- 🌱 I’m currently learning 
 - 💬 Ask me about anything
 -->
